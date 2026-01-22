@@ -46,7 +46,7 @@ This project emphasizes formal language analysis, automata theory, language inte
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/DPaniagua5/fortran-python-analyzer.git
+   git clone https://github.com/DPaniagua5/fortran-python-marker-saturation-analyzer.git
    ```
 
 3. Run the Python application:
@@ -183,7 +183,7 @@ El proyecto demuestra la interoperabilidad entre Python y Fortran, combinando un
 2. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/DPaniagua5/fortran-python-analyzer.git
+   git clone https://github.com/DPaniagua5/fortran-python-marker-saturation-analyzer.git
    ```
 
 3. Ejecuta la aplicación:
